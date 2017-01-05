@@ -1,1 +1,1 @@
-# iptv pluin based on xtream-codes
+# iptv plugin based on xtream-codes
