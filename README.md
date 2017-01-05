@@ -1,1 +1,1 @@
-# iptv plugin based on xtream-codes
+# IPTV Kodi plugin based on xtream-codes servers.
