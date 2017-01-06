@@ -12,11 +12,11 @@
     <description lang="en">RapidIPTV addon. Visit RapidIPTV official site to order a free 24 hours Trial or an official account.</description>
      <platform>all</platform>
   </extension>
-</addon><addon id="repository.rapidiptv" name="RapidIPTV Repository" provider-name="RapidIPTV" version="1.0.0">
+</addon><addon id="repository.rapidiptv" name="RapidIPTV Repository" provider-name="RapidIPTV" version="1.0.1">
         <extension name="RaiptIPTV Repository for Kodi" point="xbmc.addon.repository">
-                <info compressed="false">http://secure.clientportal.link/plugin/addons.xml</info>
-                <checksum>http://secure.clientportal.link/plugin/addons.xml.md5</checksum>
-                <datadir zip="true">http://secure.clientportal.link/plugin/</datadir>
+                <info compressed="false">https://github.com/MihaniT/iptv-repo/raw/master/addons.xml</info>
+                <checksum>https://github.com/MihaniT/iptv-repo/raw/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/MihaniT/iptv-repo/raw/master/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>RapidIPTV Repository</summary>
