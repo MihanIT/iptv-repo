@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+        <addon id="repository.rapidiptv" name="RapidIPTV Repository" version="1.0.0" provider-name="RapidIPTV">
+        <extension point="xbmc.addon.repository" name="RaiptIPTV Repository for Kodi">
+                <info compressed="false">http://secure.clientportal.link/plugin/addons.xml</info>
+                <checksum>http://secure.clientportal.link/plugin/addons.xml.md5</checksum>
+                <datadir zip="true">http://secure.clientportal.link/plugin/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>RapidIPTV Repository</summary>
+                <description>Provided By RapidIPTV - Private Usage.</description>
+                <platform>all</platform>
+        </extension>
+</addon>

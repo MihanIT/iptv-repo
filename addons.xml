@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="plugin.video.rapidiptv" name="RapidIPTV" provider-name="RapidIPTV" version="1.0.6">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">RapidIPTV</summary>
+    <language>en</language>
+    <description lang="en">RapidIPTV addon. Visit RapidIPTV official site to order a free 24 hours Trial or an official account.</description>
+     <platform>all</platform>
+  </extension>
+</addon><addon id="repository.rapidiptv" name="RapidIPTV Repository" provider-name="RapidIPTV" version="1.0.0">
+        <extension name="RaiptIPTV Repository for Kodi" point="xbmc.addon.repository">
+                <info compressed="false">http://secure.clientportal.link/plugin/addons.xml</info>
+                <checksum>http://secure.clientportal.link/plugin/addons.xml.md5</checksum>
+                <datadir zip="true">http://secure.clientportal.link/plugin/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>RapidIPTV Repository</summary>
+                <description>Provided By RapidIPTV - Private Usage.</description>
+                <platform>all</platform>
+        </extension>
+</addon></addons>
