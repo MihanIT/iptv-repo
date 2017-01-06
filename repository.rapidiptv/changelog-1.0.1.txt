@@ -1,5 +1,5 @@
 [B]Version 1.0.1[/B]
-- moving to gitgub
+- moving to github
 
 
 [B]Version 1.0.0[/B]
