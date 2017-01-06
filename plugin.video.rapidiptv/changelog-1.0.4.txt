@@ -1,6 +1,0 @@
-1.0.4 - Updater and Repository added.
-1.0.3 - Extra setting added
-1.0.2 - Clear Cache bug fixed
-1.0.1 - Improving Login speed and GUI images, Removing useless menus
-1.0.0 - First Release
-
